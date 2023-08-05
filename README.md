@@ -4,9 +4,8 @@
 
 
 
-- 🎓 A sophomore ,currently pursuing my Bachelor's, I am quite 🙋 Passionate about **Web-Dev** and **Cloud Native Technologies**.
+- 🎓 I am quite 🙋 Passionate about **Web-Dev** and **Cloud Native Technologies**.
 - 🌱 Currently I am learning  **Devops**.🤠 I also happen to be quite passionate about **Gym** and **Fitness**:
-- ⚡ I also try to share my knowledge through [Blogs](https://hashnode.com/@Rahulg21).
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rahulrana701&label=Profile%20views&color=0e75b6&style=flat" alt="rahulrana701" /> </p>
