@@ -37,7 +37,4 @@
 
 <div align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rahulrana701&show_icons=true&locale=en&layout=compact" alt="rahulrana701" /></div>
 <br>
-<div align="center">&nbsp;<img align="center"   src="https://github-readme-stats.vercel.app/api?username=rahulrana701&show_icons=true&locale=en" alt="rahulrana701"></div>
-<br>
-<br>
 
