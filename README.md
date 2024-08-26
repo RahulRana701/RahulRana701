@@ -12,6 +12,16 @@
 
 <br/> 
 
+ <a href= "https://meshery.layer5.io/user/29a56c4c-cbbc-4719-a44a-0b06b69e1524?tab=badges&badge=first-design" >
+    <img width="224px" height="224px" src = "https://badges.layer5.io/assets/badges/first-design/first-design.png" alt = "First Design" />
+  </a >
+
+ <a href= "https://meshery.layer5.io/user/29a56c4c-cbbc-4719-a44a-0b06b69e1524?tab=badges&badge=first-share" >
+    <img width="224px" height="224px" src = "https://badges.layer5.io/assets/badges/first-share/first-share.png" alt = "Sharing is Caring" />
+  </a >
+
+<br/> 
+
 <h3 align="left">Connect with me:</h3>
 <div align="center">
 <a href="https://github.com/rahulrana701" target="_blank">
