@@ -10,15 +10,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rahulrana701&label=Profile%20views&color=0e75b6&style=flat" alt="rahulrana701" /> </p>
 
-<br/> 
-
- <a href= "https://meshery.layer5.io/user/29a56c4c-cbbc-4719-a44a-0b06b69e1524?tab=badges&badge=first-design" >
-    <img width="224px" height="224px" src = "https://badges.layer5.io/assets/badges/first-design/first-design.png" alt = "First Design" />
-  </a >
-
- <a href= "https://meshery.layer5.io/user/29a56c4c-cbbc-4719-a44a-0b06b69e1524?tab=badges&badge=first-share" >
-    <img width="224px" height="224px" src = "https://badges.layer5.io/assets/badges/first-share/first-share.png" alt = "Sharing is Caring" />
-  </a >
 
 <br/> 
 
